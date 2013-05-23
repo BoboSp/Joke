@@ -1,0 +1,26 @@
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes.dex : \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/example/joke/R$attr.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/example/joke/R$array.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/example/joke/BuildConfig.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/example/joke/R$drawable.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/example/joke/R$string.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/example/joke/R$layout.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/example/joke/R.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/origo/QtActivity$2.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/origo/QtActivity$4.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/origo/QtApplication.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/origo/QtActivity$1.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1$1.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/origo/QtActivity$6.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/origo/QtActivity.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/origo/QtApplication$InvokeResult.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/origo/QtActivity$3.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/classes/org/kde/necessitas/origo/QtActivity$5.class \
+/home/csb/code/qt/qtforandroid/birthday/android/bin/dexedLibs/annotations-24d31cb0faca0bd9bc22264d6ffbdc99.jar \

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>birthday.xml</file>
+        <file alias="toolbutton">pic/toolbutton.png</file>
+    </qresource>
+</RCC>
