@@ -1,0 +1,4 @@
+A Chinese Joke Shower for android.
+纯c++使用Qt编写。
+android 需要通过Ministro安装Qt库才能使用
+笑话来源：http://www.jokearea.com/ 非常感谢！！！
