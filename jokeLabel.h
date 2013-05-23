@@ -1,6 +1,5 @@
 #include<QLabel>
 #include"internetjoke.h"
-class InternetJoke;
 class JokeLabel : public QLabel
 {
     Q_OBJECT  
